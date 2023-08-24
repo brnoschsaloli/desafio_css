@@ -78,3 +78,139 @@ body {
 
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
 }
+
+.logo {
+  width: 5rem;
+  padding: 0.5%;
+}
+
+.subtitle {
+  font-weight: bold;
+}
+
+.appbar {
+  background-color: #f7d736;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.form-card {
+  margin: auto;
+  margin-top: 1.5%;
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 30%;
+  padding: 15px;
+  border-style: outset;
+  border-radius: 0.5rem;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.form-card-title {
+  border-style: none;
+  padding-top: 0.1rem;
+  font-size: 30px;
+  align-items: center;
+}
+
+.autoresize {
+  border-style: none;
+  font-size: 15px;
+  padding-top: 1rem;
+  padding-bottom: 0.3rem;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  gap: 0.1rem;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  border-style: outset;
+  border-radius: 0.5rem;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card-title {
+  font-family: 'Permanent Marker', cursive;
+  padding-bottom: 2rem;
+  font-size: 20px;
+}
+
+.card-content {
+  flex-wrap: wrap;
+  font-family: 'Permanent Marker', cursive;
+  color: #515151;
+  display: flex;
+  justify-content: center;
+}
+
+.card-color-1 {
+  background-color: #ead3a7;
+}
+.card-color-2 {
+  background-color: #abe9c1;
+}
+.card-color-3 {
+  background-color: #fae890;
+}
+.card-color-4 {
+  background-color: #ef89ba;
+}
+.card-color-5 {
+  background-color: #9de0f5;
+}
+
+.card-rotation-1 {
+  transform: rotate(-3.5deg)
+}
+
+.card-rotation-2 {
+  transform: rotate(-2.8deg)
+}
+
+.card-rotation-3 {
+  transform: rotate(-2.1deg)
+}
+
+.card-rotation-4 {
+  transform: rotate(-1.4deg)
+}
+
+.card-rotation-5 {
+  transform: rotate(-0.7deg)
+}
+
+.card-rotation-6 {
+  transform: rotate(0deg)
+}
+
+.card-rotation-7 {
+  transform: rotate(0.7deg)
+}
+
+.card-rotation-8 {
+  transform: rotate(1.4deg)
+}
+
+.card-rotation-9 {
+  transform: rotate(2.1deg)
+}
+
+.card-rotation-10 {
+  transform: rotate(2.8deg)
+}
+
+.card-rotation-11 {
+  transform: rotate(3.5deg)
+}
