@@ -1,1 +1,7 @@
-# Integrantes: Breno Schneider Salles de Oliveira e Thiago Torres Victoriano
+# Desafio CSS
+
+* Breno Schneider
+* brenosso@al.insper.edu.br
+* 
+* Thiago Victoriano
+* thiagotv1@al.insper.edu.br
